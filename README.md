@@ -1,4 +1,3 @@
-<img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/bb5b32af-710c-4372-b100-11e88ff0f411" /># Project Responsive Web Design using Bootstrap
 ## Date:22.12.25
 
 ## AIM:
